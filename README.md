@@ -2,4 +2,4 @@
 
 ## Captura de tela do Projeto
 
-![ScreenShot](src\assets\PrintTelaVue.png)
+![ScreenShot](https://github.com/Leo21212/av109/blob/master/src/assets/PrintTelaVue.png?raw=true)
